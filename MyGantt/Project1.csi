@@ -1,0 +1,16 @@
+[History]
+B0=Project1/clsXML/Record_ExistsNew
+B1=Project1/clsXML/Record_Update
+B2=Project1/Form1/cmdXML_Click
+B3=Project1/clsXML/Record_Exists
+B4=Project1/clsXML/Table_Create
+B5=Project1/clsXML/Class_Initialize
+B6=Project1/Form1/Command1_Click
+B7=Project1/clsXML/Table_FieldNames
+B8=Project1/clsXML/Table_Names
+B9=Project1/clsXML/Table_Delete
+B10=Project1/clsXML/Database_Create
+B11=Project1/clsXML/Table_Exists
+B12=Project1/clsXML/ProperCase
+B13=Project1/clsXML/MvField
+B14=Project1/clsXML/Dir_Exists

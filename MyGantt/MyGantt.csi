@@ -1,0 +1,10 @@
+[History]
+B0=Project1/Module1/Main
+B1=Project1/Module1
+B2=Project1/MyGantt/AddTask
+B3=Project1/MyGantt
+B4=Project1/MyGantt/UserControl_Resize
+B5=Project1/MyGantt/UserControl_Initialize
+B6=Project1/MyGantt/PlannedStartDate
+B7=Project1/MyGantt/PlannedFinishDate
+B8=Project1/Form1/MyGantt1_GotFocus

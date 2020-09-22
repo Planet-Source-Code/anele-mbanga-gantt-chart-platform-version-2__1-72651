@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<tables>
+
+	<Holidays>
+		
+		<holiday>
+			<holidayid>21/10/2009</holidayid>
+		</holiday>
+	
+		<holiday>
+			<holidayid>01/01/2009</holidayid>
+		</holiday>
+	</Holidays>
+</tables>
+<!--Created by Anele Mbanga-->
